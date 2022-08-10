@@ -10,13 +10,13 @@ import axios from 'axios';
 Vue.use(VueAxios, axios);
 
 import App from './App.vue';
-import Example from './components/Example.vue';
+//import Example from './components/Example.vue';
 
 const routes = [
   {
-      name: 'Example',
+      name: 'App',
       path: '/',
-      component: Example
+      component: App
   }
 ];
 
