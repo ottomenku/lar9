@@ -8,6 +8,8 @@
         <link href="{{asset('css/app.css')}}" rel="stylesheet" type="text/css">
     </head>
     <body>
+    <title>Laravel 9 with vue html</title>
+
         <div id="app">
         </div>
          <script>
