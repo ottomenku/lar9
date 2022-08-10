@@ -8,6 +8,7 @@ import { createApp } from 'vue';
 
 var app = new Vue({
     el: '#app',
+    egyes: 'eeeeee',
   //  created() {
   //      this.PandFwitId('getbasedata');
  //   },

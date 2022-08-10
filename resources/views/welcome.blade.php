@@ -10,7 +10,7 @@
     <title>Laravel 9 with vue html</title>
 
         <div id="app">
-            {{ data.egyes }}
+            {{ egyes }}
         </div>
      
         <script src="{{asset('js/app.js')}}"></script>
