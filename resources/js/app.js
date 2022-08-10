@@ -8,13 +8,13 @@ import { createApp } from 'vue';
 
 var app = new Vue({
     el: '#app',
-    egyes: 'eeeeee',
-  //  created() {
-  //      this.PandFwitId('getbasedata');
- //   },
-    data: {
-        //paraméterek---------------------------------
-        egyes: "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
 
+
+    data() {
+      return {
+        egyes: 'My To Do App'
+      }
     }
+  
+
 });
